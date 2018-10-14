@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Presente!</string>
+    <string name="logout">Logout</string>
+    <string name="email">E-mail</string>
+    <string name="password">Senha</string>
+    <string name="signin">Entrar</string>
+    <string name="create_account"><u>Criar conta</u></string>
+    <string name="background_image_cdesc">Imagem de fundo.</string>
+</resources>
